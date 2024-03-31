@@ -1,6 +1,6 @@
-# Latin script city names and non-latin script city names generator
+# City Name Generation with RNN Model: Latin script and Non-latin Script
 
-Two notebooks shared the same database which consists of 3094 cities in the US and China respectively, but the text processing differs according to the libraries. The models in `Cityname_generator_Pytorch_NN_Model.ipynb` are simple NN models using *PyTorch*, while the models from `Cityname_generator_Tensorflow_RNN_model.ipynb` used GRU units from *TensorFlow*. 
+Two notebooks shared the same database which consists of 3094 cities in the US and China respectively, but the text processing differs according to the libraries. The benchmark models in `Cityname_generator_Pytorch_NN_Model.ipynb` are simple NN models using *PyTorch*, while the models from `Cityname_generator_Tensorflow_RNN_model.ipynb` used GRU units from *TensorFlow*. 
 
 
 ## Notes
